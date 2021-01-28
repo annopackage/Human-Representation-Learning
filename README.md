@@ -7,5 +7,5 @@
 - Synthesizing Images of Humans in Unseen Poses [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Balakrishnan_Synthesizing_Images_of_CVPR_2018_paper.pdf)] [[code](https://github.com/balakg/posewarp-cvpr2018)]
 - Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks [[paper](https://arxiv.org/abs/1607.02586)] [[code](https://github.com/tfxue/visual-dynamics)]
 - TRB: A Novel Triplet Representation for Understanding 2D Human Body [[paper](https://arxiv.org/abs/1910.11535)] [[code]()]
-- Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network [[paper](https://arxiv.org/pdf/1905.05622.pdf)] [[code]()]
+- Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network [[paper](https://arxiv.org/pdf/1905.05622.pdf)] [[code](https://github.com/Juyong/DHNN_BodyRepresentation)]
 - BODY-STRUCTURE BASED FEATURE REPRESENTATION FOR PERSON RE-IDENTIFICATION [[paper](http://charliememory.github.io/pdf/ICASSP15_Body-structure_based_feature_representation_for_person_re-identification.pdf)] [[code]()]
