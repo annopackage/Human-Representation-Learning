@@ -4,3 +4,5 @@
 - \* Unsupervised Learning of Object Landmarks through Conditional Image Generation[[paper](https://arxiv.org/pdf/1806.07823.pdf)] [[code1](https://github.com/tomasjakab/imm)] [[code2](https://github.com/hqng/imm-pytorch)]
 - \* Unsupervised Discovery of Object Landmarks as Structural Representations [[paper](https://arxiv.org/abs/1804.04412)][[code](https://github.com/YutingZhang/lmdis-rep)]
 - \* UNSUPERVISED DISCOVERY OF PARTS, STRUCTURE, AND DYNAMICS [[paper](https://openreview.net/pdf?id=rJe10iC5K7)] [[code](https://github.com/zhenjia-xu/psd)]
+- Synthesizing Images of Humans in Unseen Poses [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Balakrishnan_Synthesizing_Images_of_CVPR_2018_paper.pdf)] [[code](https://github.com/balakg/posewarp-cvpr2018)]
+- Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks [[paper](https://arxiv.org/abs/1607.02586)] [[code](https://github.com/tfxue/visual-dynamics)]
