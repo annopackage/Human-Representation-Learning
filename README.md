@@ -6,3 +6,6 @@
 - \* UNSUPERVISED DISCOVERY OF PARTS, STRUCTURE, AND DYNAMICS [[paper](https://openreview.net/pdf?id=rJe10iC5K7)] [[code](https://github.com/zhenjia-xu/psd)]
 - Synthesizing Images of Humans in Unseen Poses [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Balakrishnan_Synthesizing_Images_of_CVPR_2018_paper.pdf)] [[code](https://github.com/balakg/posewarp-cvpr2018)]
 - Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks [[paper](https://arxiv.org/abs/1607.02586)] [[code](https://github.com/tfxue/visual-dynamics)]
+- TRB: A Novel Triplet Representation for Understanding 2D Human Body [[paper](https://arxiv.org/abs/1910.11535)] [[code]()]
+- Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network [[paper](http://charliememory.github.io/pdf/ICASSP15_Body-structure_based_feature_representation_for_person_re-identification.pdf)] [[code]()]
+- BODY-STRUCTURE BASED FEATURE REPRESENTATION FOR PERSON RE-IDENTIFICATION [[paper](http://charliememory.github.io/pdf/ICASSP15_Body-structure_based_feature_representation_for_person_re-identification.pdf)] [[code]()]
