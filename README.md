@@ -11,3 +11,4 @@
 - BODY-STRUCTURE BASED FEATURE REPRESENTATION FOR PERSON RE-IDENTIFICATION [[paper](http://charliememory.github.io/pdf/ICASSP15_Body-structure_based_feature_representation_for_person_re-identification.pdf)] [[code]()]
 - Structured feature learning for pose estimation [[paper](https://static.aminer.cn/upload/pdf/program/573696026e3b12023e515ded_0.pdf)] [[code](https://github.com/chuxiaoselena/StructuredFeature)]
 - Hierarchical Human Representation and Data Synthesis [[paper](https://arxiv.org/pdf/2006.07778.pdf)] [[code](https://github.com/Nicholasli1995/EvoSkeleton)]
+- Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf)] [[code](https://github.com/Engineering-Course/LIP_SSL)]
