@@ -20,10 +20,10 @@
 - robotics
   - \* Robust Real-time Whole-Body Motion Retargeting from Human to Humanoid [[paper](https://hal.archives-ouvertes.fr/hal-01895145/file/_LARGE__bf_Robust_Real_time_Whole_Body_Motion_Retargeting____from_Human_to_Humanoid.pdf)]
   - \* Motion Retargeting for humanoid robots. [[paper](https://staff.aist.go.jp/e.yoshida/papers/Ayusawa-Retargeting-2017TRO.pdf)]
- - 3D
-  - \* VIBE: Video Inference for Human Body Pose and Shape Estimation [CVPR 2020] [[paper](https://arxiv.org/abs/1912.05656)] [[code](https://github.com/mkocabas/VIBE)]
+ ## 3D
+ - \* VIBE: Video Inference for Human Body Pose and Shape Estimation [CVPR 2020] [[paper](https://arxiv.org/abs/1912.05656)] [[code](https://github.com/mkocabas/VIBE)]
  
- - Controable editing
-  - \* Vid2Game: Controllable Characters Extracted from Real-World Videos [ICLR2020] [[paper](https://openreview.net/forum?id=SkxBUpEKwH)] [[code]()]
-  - \* Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players [[paper](https://arxiv.org/abs/2008.04524)] [[project](https://cs.stanford.edu/~haotianz/research/vid2player/)]
+ ## Controable editing
+ - \* Vid2Game: Controllable Characters Extracted from Real-World Videos [ICLR2020] [[paper](https://openreview.net/forum?id=SkxBUpEKwH)] [[code]()]
+ - \* Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players [[paper](https://arxiv.org/abs/2008.04524)] [[project](https://cs.stanford.edu/~haotianz/research/vid2player/)]
   
