@@ -23,7 +23,7 @@
  ## 3D
  - \* VIBE: Video Inference for Human Body Pose and Shape Estimation [CVPR 2020] [[paper](https://arxiv.org/abs/1912.05656)] [[code](https://github.com/mkocabas/VIBE)]
  
- ## Controable editing
+ ## Controllable editing
  - \* Vid2Game: Controllable Characters Extracted from Real-World Videos [ICLR2020] [[paper](https://openreview.net/forum?id=SkxBUpEKwH)] [[code]()]
  - \* Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players [[paper](https://arxiv.org/abs/2008.04524)] [[project](https://cs.stanford.edu/~haotianz/research/vid2player/)]
   
