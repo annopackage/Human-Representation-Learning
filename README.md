@@ -12,8 +12,11 @@
 - Structured feature learning for pose estimation [[paper](https://static.aminer.cn/upload/pdf/program/573696026e3b12023e515ded_0.pdf)] [[code](https://github.com/chuxiaoselena/StructuredFeature)]
 - Hierarchical Human Representation and Data Synthesis [[paper](https://arxiv.org/pdf/2006.07778.pdf)] [[code](https://github.com/Nicholasli1995/EvoSkeleton)]
 - Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf)] [[code](https://github.com/Engineering-Course/LIP_SSL)]
-- \* Walk Like A Supermodel: Fashion Generation with Pose Adaptation [[paper](Walk Like A Supermodel: Fashion Generation with Pose Adaptation)]
+- \* Walk Like A Supermodel: Fashion Generation with Pose Adaptation [[paper](https://sites.google.com/view/eccvfashion/papers)]
 - \* First Order Motion Model for Image Animation [[paper](https://arxiv.org/abs/2003.00196)] [[code](https://github.com/AliaksandrSiarohin/first-order-model)]
 - \* Animating Arbitrary Objects via Deep Motion Transfer [[paper](https://arxiv.org/abs/1812.08861)] [[code](https://github.com/AliaksandrSiarohin/monkey-net)]
 - \* Learning Character-Agnostic Motion for Motion Retargeting in 2D [[paper](https://arxiv.org/abs/1905.01680)] [[code](https://github.com/ChrisWu1997/2D-Motion-Retargeting)]
 - \* Joint discriminative and generative learning for person re-identification [[paper](https://arxiv.org/abs/1904.07223)] [[code](https://github.com/NVlabs/DG-Net)]
+- robotics
+  - \* Robust Real-time Whole-Body Motion Retargeting from Human to Humanoid [[paper](https://hal.archives-ouvertes.fr/hal-01895145/file/_LARGE__bf_Robust_Real_time_Whole_Body_Motion_Retargeting____from_Human_to_Humanoid.pdf)]
+  - \* Motion Retargeting for humanoid robots. [[paper](https://staff.aist.go.jp/e.yoshida/papers/Ayusawa-Retargeting-2017TRO.pdf)]
