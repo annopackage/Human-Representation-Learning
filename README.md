@@ -26,4 +26,7 @@
  ## Controllable editing
  - \* Vid2Game: Controllable Characters Extracted from Real-World Videos [ICLR2020] [[paper](https://openreview.net/forum?id=SkxBUpEKwH)] [[code]()]
  - \* Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players [[paper](https://arxiv.org/abs/2008.04524)] [[project](https://cs.stanford.edu/~haotianz/research/vid2player/)]
+
+## SIGGRAPH
+- \* Robust motion in between [SIGGRAPH2020] [[paper](https://www.researchgate.net/profile/Felix_Harvey/publication/343605925_Robust_motion_in-betweening/links/5f7db7d3a6fdccfd7b4ce33c/Robust-motion-in-betweening.pdf)] [[code](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)]
   
